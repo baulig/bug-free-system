@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F92854F3-665D-40B3-84A4-B4F8ABA2B3BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.BugFreeSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BugFreeLibrary/MartinTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="../BugFreeLibrary/MartinTest.cs" Line="7" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BugFreeSystem" expanded="True">
+            <Node name="BugFreeLibrary" expanded="True">
+              <Node name="MartinTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.5.0 (eab4b7e67be)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
