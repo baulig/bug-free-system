@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Baulig.MartinsPlayground</id>
+    <version>0.1</version>
+    <title>Martin's Playground</title>
+    <authors>Martin Baulig</authors>
+    <owners>Martin Baulig</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Martin's Playground</description>
+    <copyright>Copyright (c) 2017 Xamarin Inc. (http://www.xamarin.com)</copyright>
+  </metadata>
+  <files>
+      <file src="bin\Release\netcoreapp2.0\BugFreeLibrary.dll" target="lib\netcoreapp2.0\BugFreeLibrary.dll" />
+  </files>
+</package>

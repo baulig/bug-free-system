@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{F92854F3-665D-40B3-84A4-B4F8ABA2B3BC}|Default">
   <MonoDevelop.Ide.ItemProperties.BugFreeSystem PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../BugFreeLibrary/MartinTest.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Workspace/web-tests/Xamarin.WebTests.Framework/Xamarin.WebTests.TestRunners/HttpInstrumentationTestRunner.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="../BugFreeLibrary/MartinTest.cs" Line="7" Column="27" />
+      <File FileName="Program.cs" Line="14" Column="1" />
+      <File FileName="../BugFreeLibrary/MartinTest.cs" Line="10" Column="4" />
+      <File FileName="../../../../../Workspace/web-tests/Xamarin.WebTests.Framework/Xamarin.WebTests.TestRunners/HttpInstrumentationTestRunner.cs" Line="7" Column="60" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BugFreeSystem" expanded="True">
-            <Node name="BugFreeLibrary" expanded="True">
-              <Node name="MartinTest.cs" selected="True" />
+            <Node name="BugFreeLibrary" expanded="True" />
+            <Node name="BugFreeSystem" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
