@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>../BugFreeSystem/Baulig.MartinsPlayground.0.1.0.nupkg</StartArguments>
+    <StartWorkingDirectory>.</StartWorkingDirectory>
+    <ExternalConsole>false</ExternalConsole>
+    <EnvironmentVariables>
+      <Variable name="MARTIN_WEB_DEBUG" value="1" />
+    </EnvironmentVariables>
+  </PropertyGroup>
+</Project>

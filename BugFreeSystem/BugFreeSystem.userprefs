@@ -1,25 +1,25 @@
-﻿<Properties StartupConfiguration="{F92854F3-665D-40B3-84A4-B4F8ABA2B3BC}|Default">
+﻿<Properties StartupConfiguration="{36E57F4B-30C7-4388-9500-D4496C454964}|Default">
   <MonoDevelop.Ide.ItemProperties.BugFreeSystem PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../Workspace/web-tests/Xamarin.WebTests.Framework/Xamarin.WebTests.TestRunners/HttpInstrumentationTestRunner.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="14" Column="1" />
       <File FileName="../BugFreeLibrary/MartinTest.cs" Line="10" Column="4" />
-      <File FileName="../../../../../Workspace/web-tests/Xamarin.WebTests.Framework/Xamarin.WebTests.TestRunners/HttpInstrumentationTestRunner.cs" Line="7" Column="60" />
+      <File FileName="../BugFreeConsole/Program.cs" Line="41" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BugFreeSystem" expanded="True">
+            <Node name="BugFreeConsole" expanded="True" selected="True" />
             <Node name="BugFreeLibrary" expanded="True" />
-            <Node name="BugFreeSystem" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="BugFreeSystem" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.5.0 (eab4b7e67be)" />
+  <MonoDevelop.Ide.ItemProperties.BugFreeConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 5.5.0 (bf92080bb7b)" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
