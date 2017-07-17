@@ -25,6 +25,7 @@
 // THE SOFTWARE.
 using System;
 using System.IO;
+using System.Reflection;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -38,8 +39,16 @@ namespace BugFreeConsole
 	{
 		static void Main (string[] args)
 		{
-			// MartinTest.Run ();
-			PushPackage (args[0]);
+			string path = args.Length > 0 ? args[0] : GetPackagePath ();
+			Console.WriteLine (path);
+			PushPackage (path);
+		}
+
+		static string GetPackagePath ()
+		{
+			var thisPath = Path.GetDirectoryName (Path.GetDirectoryName (Path.GetDirectoryName (Assembly.GetExecutingAssembly ().Location)));
+			var systemPath = Path.Combine (Path.GetDirectoryName (thisPath), "BugFreeSystem");
+			return Path.Combine (systemPath, "Baulig.MartinsPlayground.0.1.0.nupkg");
 		}
 
 		internal static Guid GetKey ()
